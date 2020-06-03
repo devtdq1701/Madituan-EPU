@@ -1,0 +1,39 @@
+C:\Users\DELL\Desktop\Hoai-Tien\Nhap\MaDiTuan\MaDiTuan\bin\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\Hoai-Tien\Nhap\MaDiTuan\MaDiTuan\bin\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\Hoai-Tien\Nhap\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.Form1.resources
+C:\Users\DELL\Desktop\Hoai-Tien\Nhap\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.Properties.Resources.resources
+C:\Users\DELL\Desktop\Hoai-Tien\Nhap\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Hoai-Tien\Nhap\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\Hoai-Tien\Nhap\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\MaDiTuan\MaDiTuan\bin\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\MaDiTuan\MaDiTuan\bin\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.Form1.resources
+C:\Users\DELL\Desktop\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.Properties.Resources.resources
+C:\Users\DELL\Desktop\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\bin\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\bin\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.Form1.resources
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.Properties.Resources.resources
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan\MaDiTuan\obj\x86\Debug\MaDiTuan.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\bin\Debug\MaDiTuan.exe
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\bin\Debug\MaDiTuan.pdb
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.Form1.resources
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.Properties.Resources.resources
+C:\Users\DELL\Desktop\Hoai-Tien\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.csproj.GenerateResource.Cache
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\bin\Debug\MaDiTuan.exe
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\bin\Debug\MaDiTuan.pdb
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.csprojAssemblyReference.cache
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.Form1.resources
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.Properties.Resources.resources
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.csproj.GenerateResource.cache
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.csproj.CoreCompileInputs.cache
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.exe
+D:\Bài tập\CTDL&GT\BaoCao\MaDiTuan_C#\MaDiTuan\obj\x86\Debug\MaDiTuan.pdb
